@@ -60,3 +60,14 @@ Build **Healthy-Recipe-Finder** from the source and install dependencies:
 
    ```bash
    git clone https://github.com/Thoufeek19/Healthy-Recipe-Finder
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd Healthy-Recipe-Finder
+3. **Install dependancies :**
+   using npm
+   ```bash
+   npm install
+4. **Run the project with npm:**
+   ```bash
+   npm start
